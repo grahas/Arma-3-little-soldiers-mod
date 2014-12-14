@@ -1,0 +1,33 @@
+One game play idea style
+Classes 	Commander 			Solo Pilot		Infantry
+Requirements    Mic, stratagie			Skill, proven record	Listens to commanders
+		Take game sieriously		listen to commanders
+		Willing to act their part
+
+How to become   Self apointed			Chosen by commander	Commanded, default
+
+
+Bonuses of the lower density map
+	1.) runs better because of less geometry
+	2.) Diffrent stratagies because of unique problems
+	3.) More people can play as it is easer to run at higher frame rates
+	4.) fun!
+
+Goal right now
+	Build the map and scripts for game play
+	Build an epic trailer/video of people four-wheeling off a desk
+	Set up a drop box
+	
+Goals for maby later on
+	custom units
+	cool new vehicles.
+
+Short descripton********************************************************************************
+	This mod is all about what it would be like as a soldier who is only an inch tall. What kind of action would he see? What new game play stratagies would people make? Would people make  bases and expand or would they move everyting as a convoy? What would happen to "you" if you were a little plastic army man? ... Would you break out a 3D printer and print off tanks? 
+
+Phrase thoughts
+	~The helicopter struggled to lift the ruler to bridge the gap for the infantry to bridge the gap
+	~
+	
+	
+	
