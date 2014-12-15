@@ -1,15 +1,15 @@
 One game play idea style
 Classes 	Commander 			Solo Pilot		Infantry
 Requirements    Mic, stratagie			Skill, proven record	Listens to commanders
-		Take game sieriously		listen to commanders
+		Take game seriously		listen to commanders
 		Willing to act their part
 
-How to become   Self apointed			Chosen by commander	Commanded, default
+How to become   Self appointed			Chosen by commander	Commanded, default
 
 
 Bonuses of the lower density map
 	1.) runs better because of less geometry
-	2.) Diffrent stratagies because of unique problems
+	2.) Diffrent strategies because of unique problems
 	3.) More people can play as it is easer to run at higher frame rates
 	4.) fun!
 
@@ -18,7 +18,7 @@ Goal right now
 	Build an epic trailer/video of people four-wheeling off a desk
 	Set up a drop box
 	
-Goals for maby later on
+Goals for mabye later on
 	custom units
 	cool new vehicles.
 
@@ -28,6 +28,12 @@ Short descripton****************************************************************
 Phrase thoughts
 	~The helicopter struggled to lift the ruler to bridge the gap for the infantry to bridge the gap
 	~
+	
+Possible issues
+	Players go into freefall animation at certain height
+	overall max height for map
+	grass causes fps problems at the current size. Huge grass would melt computers
+	Lighting - If map is interior only, lighting will be difficult
 	
 	
 	
